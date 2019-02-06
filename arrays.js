@@ -52,5 +52,5 @@ function removeElementFromBeginningOfArray(array){
 
 
 function removeElementFromBeginningOfArray(array){
-  array.push()
+  array.shift()
 }
