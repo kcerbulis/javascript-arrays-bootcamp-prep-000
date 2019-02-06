@@ -22,7 +22,4 @@ function addElementToEndOfArray(array, element){
   return array
 }
 
-function destructivelyAddElementToEndOfArray(array, element){
-  array.shift(element)
-  return array
-}
+function 
